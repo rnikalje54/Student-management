@@ -17,9 +17,6 @@ A Django-based Student Management System that helps manage student records effic
 - Python 3
 - Django
 - SQLite3
-- HTML
-- CSS
-- Bootstrap (if used)
 
 ## Project Structure
 
